@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WojKie
+- 👋 Hi, I’m Wojciech Kiedrowski
 - 👀 I’m interested in Data Science, Python, and Machine Learning
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m a Bachelor of Science in Computer Science
 - 💞️ I’m looking to collaborate on AI related projects
-- 📫 How to reach me https://www.linkedin.com/in/wojciech-kiedrowski-b35173227/
+- 📫 How to reach me: [LinkedIn]([url](https://www.linkedin.com/in/wojciech-kiedrowski/))
