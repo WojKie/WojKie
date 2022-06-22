@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science, Python, and Machine Learning
 - 🌱 I’m a Bachelor of Science in Computer Science
 - 💞️ I’m looking to collaborate on AI related projects
-- 📫 How to reach me: [LinkedIn]([url](https://www.linkedin.com/in/wojciech-kiedrowski/))
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/wojciech-kiedrowski/)
